@@ -48,7 +48,7 @@ else if (lastDigit < 6 && lastDigit != 0)
 
 {
 
-printf("The last digit of %d is %d and is less than 6 and not 0\n", n, lastDigit);
+printf("last digit of %d is %d and is less than 6 and not 0\n", n, lastDigit);
 
 }
 
