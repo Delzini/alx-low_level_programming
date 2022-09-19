@@ -5,7 +5,8 @@
  * _puts - print string on stout
  * @str: string to print
  *
- * Return: On success no error
+ * Description: print a string
+ * on success: return no error
  */
 
 void _puts(char *str)
