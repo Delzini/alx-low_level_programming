@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
 *_isupper - checks if a character is uppercade or not
 *@c: character to be tested
